@@ -1,0 +1,34 @@
+{
+    "cards": [
+        {
+            "id":1,
+            "img": "https://www.contiki.com/v-ch19mvrvmd0i/-/media/operational-regions/europe/2020-2021/brochure-tours/european-quest-from-april2020/eastern-quest-from-april-2020-hero.jpg",
+            "countr": "11",
+            "days": "25",
+            "title": "Europian Quest",
+            "stars": "4.6",
+            "price": "2,877",
+            "price2": "3,385"
+        },
+        {
+            "id":2,
+            "img": "https://www.contiki.com/v-ch18duzshjq0/-/media/operational-regions/europe/2019-2020/brochure-tours/simply-italy/1307eurs2019.jpg",
+            "countr": "2",
+            "days": "15",
+            "title": "Simply Italy",
+            "stars": "4.4",
+            "price": "1,832",
+            "price2": "2,155"
+        },
+        {
+            "id":3,
+            "img": "https://www.contiki.com/v-ch1dhmt4j8im/-/media/tours/hero-images/europe/italian-espresso/italian-espresso-1693eurs2018.jpg",
+            "countr": "1",
+            "days": "10",
+            "title": "Italian Espresso",
+            "stars": "3.5",
+            "price": "1,245",
+            "price2": "1,465"
+        }
+    ]
+}

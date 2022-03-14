@@ -1,0 +1,70 @@
+.form__item {
+  position: relative;
+  display: flex;
+}
+
+
+.rating {
+    display: flex;
+    align-items: flex-end;
+    font-size: 25px;
+    line-height: 0.75;
+  
+  }
+  .rating__body {
+    position: relative;
+  }
+  .rating__body::before {
+    content: "★★★★★";
+    display: block;
+    color: rgb(255, 255, 255);
+ 
+  }
+  .rating__active {
+  position: absolute;
+  width: 92%; 
+  height: 100%;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  
+  }
+  
+  .rating__active::before {
+    content: "★★★★★";
+    position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  color: #ffd300;
+  
+  
+  }
+  .rating__items {
+  display: flex;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  }
+  .rating__item {
+    flex: 0 0 15%;
+    height: 100%;
+    opacity: 0;
+    
+  
+  }
+  .rating__value {
+    font-size: 50%;
+    line-height: 1;
+    padding: 0;
+    
+  }
+
+  .rating__value span{
+    font-weight: 700;
+    line-height: 18px;
+    
+  }
