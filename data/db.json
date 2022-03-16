@@ -26,6 +26,16 @@
             "countr": "1",
             "days": "10",
             "title": "Italian Espresso",
+            "stars": "4.5",
+            "price": "1,245",
+            "price2": "1,465"
+        },
+        {
+            "id":4,
+            "img": "https://www.contiki.com/v-ch1dhmt4j8im/-/media/tours/hero-images/europe/italian-espresso/italian-espresso-1693eurs2018.jpg",
+            "countr": "1",
+            "days": "10",
+            "title": "Italian Espresso",
             "stars": "3.5",
             "price": "1,245",
             "price2": "1,465"

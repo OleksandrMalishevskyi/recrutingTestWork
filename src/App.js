@@ -1,4 +1,4 @@
-import CardList from './components/cardList/CardList';
+import CardList from './components/cardList/CardList.js';
 function App() {
   return (
     <CardList />

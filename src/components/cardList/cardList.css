@@ -1,0 +1,31 @@
+.cardList {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 10px 20px;
+    max-width: 100%;
+    
+}
+
+/* @media (max-wight: 1400px) {
+    .cardList {
+        max-width: 1170px;
+    }
+}
+@media (max-wight: 1200px) {
+    .cardList {
+        max-width: 970px;
+    }
+}
+@media (max-wight: 992px) {
+    .cardList {
+        max-width: 750px;
+    }
+}
+
+@media (max-wight: 767) {
+    .cardList {
+        max-width: none;
+    }
+} */
